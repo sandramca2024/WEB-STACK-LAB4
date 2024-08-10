@@ -1,0 +1,9 @@
+<!ELEMENT Euphoria (Event+)>
+<!ELEMENT Event (Name, Date, Location, Participants, Organizer, Duration)>
+<!ATTLIST Event id ID #REQUIRED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Participants (#PCDATA)>
+<!ELEMENT Organizer (#PCDATA)>
+<!ELEMENT Duration (#PCDATA)>

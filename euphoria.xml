@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="euphoria.xsl"?>
+<!DOCTYPE Euphoria SYSTEM "euphoria.dtd">
+<Euphoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="euphoria.xsd">
+    <Event id="E001">
+        <Name>Annual Tech Conference</Name>
+        <Date>2024-09-15</Date>
+        <Location>New York City</Location>
+        <Participants>300</Participants>
+        <Organizer>TechCorp</Organizer>
+        <Duration>3</Duration>
+    </Event>
+    <Event id="E002">
+        <Name>Music Festival</Name>
+        <Date>2024-10-05</Date>
+        <Location>Los Angeles</Location>
+        <Participants>5000</Participants>
+        <Organizer>MusicMania</Organizer>
+        <Duration>2</Duration>
+    </Event>
+</Euphoria>
